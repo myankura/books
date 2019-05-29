@@ -1,0 +1,11 @@
+C:\Users\Mike\backend\books\bin\Debug\netcoreapp2.2\books.deps.json
+C:\Users\Mike\backend\books\bin\Debug\netcoreapp2.2\books.runtimeconfig.json
+C:\Users\Mike\backend\books\bin\Debug\netcoreapp2.2\books.runtimeconfig.dev.json
+C:\Users\Mike\backend\books\bin\Debug\netcoreapp2.2\books.dll
+C:\Users\Mike\backend\books\bin\Debug\netcoreapp2.2\books.pdb
+C:\Users\Mike\backend\books\obj\Debug\netcoreapp2.2\books.csprojAssemblyReference.cache
+C:\Users\Mike\backend\books\obj\Debug\netcoreapp2.2\books.csproj.CoreCompileInputs.cache
+C:\Users\Mike\backend\books\obj\Debug\netcoreapp2.2\books.AssemblyInfoInputs.cache
+C:\Users\Mike\backend\books\obj\Debug\netcoreapp2.2\books.AssemblyInfo.cs
+C:\Users\Mike\backend\books\obj\Debug\netcoreapp2.2\books.dll
+C:\Users\Mike\backend\books\obj\Debug\netcoreapp2.2\books.pdb
